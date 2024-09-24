@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @rivija_pesara
 - 👀 I’m interested in ...programming and eng. algorithms
-- 🌱 I’m currently learning ...python
+- 🌱 I’m currently learning ...cpp,html,swift and neural networks
 - 💞️ I’m looking to collaborate on ... anywhere 
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
+- 📫 How to reach me ...rivijapesara756@gmail.com
+- 😄 Pronouns: ...Mr./he/him
 - ⚡ Fun fact: ...im a mostly a villain but sometimes a hero
 
 <!---
