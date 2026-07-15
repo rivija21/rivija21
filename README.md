@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rivija_pesara
-- 👀 I’m interested in ...programming and eng. algorithms
-- 🌱 I’m currently learning ...cpp,html,swift and neural networks
+- 👀 I’m interested in ...programming and embedded systems
+- 🌱 I’m currently learning ...SystemVerilog & CVPR
 - 💞️ I’m looking to collaborate on ... anywhere 
 - 📫 How to reach me ... tympani_cheeky_0p@icloud.com
 - 😄 Pronouns: ...Mr./he/him
